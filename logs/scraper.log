@@ -1,0 +1,16 @@
+2026-06-26 22:50:28,278 - INFO - Starting Telegram Scraper...
+2026-06-26 22:53:16,463 - INFO - Starting Telegram Scraper...
+2026-06-26 22:54:39,299 - INFO - Logged in successfully
+2026-06-26 22:54:39,299 - INFO - Scraping channel: CheMed
+2026-06-26 22:54:39,926 - INFO - Saved data for CheMed -> data\raw\telegram_messages\2026-06-26\CheMed.json
+2026-06-26 22:54:39,927 - INFO - Scraping channel: LobeliaCosmetics
+2026-06-26 22:54:40,744 - INFO - Saved data for LobeliaCosmetics -> data\raw\telegram_messages\2026-06-26\LobeliaCosmetics.json
+2026-06-26 22:54:40,745 - INFO - Scraping channel: TikvahPharma
+2026-06-26 22:56:07,741 - INFO - Saved data for TikvahPharma -> data\raw\telegram_messages\2026-06-26\TikvahPharma.json
+2026-06-26 22:56:07,742 - INFO - Scraping channel: Thequorachannel
+2026-06-26 22:59:14,204 - INFO - Saved data for Thequorachannel -> data\raw\telegram_messages\2026-06-26\Thequorachannel.json
+2026-06-26 22:59:14,204 - INFO - Scraping channel: MedInEthio
+2026-06-26 22:59:15,338 - INFO - Saved data for MedInEthio -> data\raw\telegram_messages\2026-06-26\MedInEthio.json
+2026-06-26 22:59:15,338 - INFO - Scraping channel: Debol_Che
+2026-06-26 22:59:16,059 - INFO - Saved data for Debol_Che -> data\raw\telegram_messages\2026-06-26\Debol_Che.json
+2026-06-26 22:59:16,204 - INFO - Scraping completed

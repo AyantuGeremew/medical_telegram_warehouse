@@ -1,0 +1,15 @@
+venv\
+venv
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+env/
+
+.env
+
+.vscode/
+.history/
