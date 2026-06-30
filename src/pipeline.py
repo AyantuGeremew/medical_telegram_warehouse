@@ -158,7 +158,6 @@ def telegram_analytics_pipeline():
 def daily_schedule(_context):
     return {}
 
-
 # =========================================================
 # DAGSTER DEFINITIONS
 # =========================================================
