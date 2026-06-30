@@ -1,0 +1,196 @@
+message_id,channel_name,image_name,detected_objects,confidence_score,image_category
+16399,Thequorachannel,16399.jpg,,0.0,other
+16400,Thequorachannel,16400.jpg,,0.0,other
+16401,Thequorachannel,16401.jpg,,0.0,other
+16402,Thequorachannel,16402.jpg,,0.0,other
+16403,Thequorachannel,16403.jpg,,0.0,other
+16404,Thequorachannel,16404.jpg,clock,0.909,other
+16407,Thequorachannel,16407.jpg,,0.0,other
+16408,Thequorachannel,16408.jpg,,0.0,other
+16410,Thequorachannel,16410.jpg,,0.0,other
+16413,Thequorachannel,16413.jpg,,0.0,other
+16415,Thequorachannel,16415.jpg,,0.0,other
+16417,Thequorachannel,16417.jpg,,0.0,other
+16418,Thequorachannel,16418.jpg,clock,0.909,other
+16419,Thequorachannel,16419.jpg,"car, person, person",0.84,lifestyle
+16421,Thequorachannel,16421.jpg,"person, person",0.894,lifestyle
+16422,Thequorachannel,16422.jpg,,0.0,other
+16423,Thequorachannel,16423.jpg,,0.0,other
+16424,Thequorachannel,16424.jpg,"person, person, chair, tv, cell phone",0.923,promotional
+16425,Thequorachannel,16425.jpg,,0.0,other
+16426,Thequorachannel,16426.jpg,,0.0,other
+16428,Thequorachannel,16428.jpg,,0.0,other
+16431,Thequorachannel,16431.jpg,,0.0,other
+16433,Thequorachannel,16433.jpg,,0.0,other
+16434,Thequorachannel,16434.jpg,,0.0,other
+16435,Thequorachannel,16435.jpg,"laptop, book, book, book, book, cup, mouse, person, book, mouse",0.942,promotional
+16436,Thequorachannel,16436.jpg,,0.0,other
+16439,Thequorachannel,16439.jpg,,0.0,other
+16440,Thequorachannel,16440.jpg,,0.0,other
+16441,Thequorachannel,16441.jpg,,0.0,other
+16443,Thequorachannel,16443.jpg,,0.0,other
+16444,Thequorachannel,16444.jpg,"zebra, clock, cow, clock, clock",0.844,other
+16446,Thequorachannel,16446.jpg,,0.0,other
+16448,Thequorachannel,16448.jpg,"person, person, laptop, potted plant, laptop, tv, person, person, person, chair, person, chair, laptop, chair, chair, chair, laptop, dining table, chair, chair, chair",0.84,lifestyle
+16449,Thequorachannel,16449.jpg,"person, chair, chair, person, potted plant, person, person, laptop, chair, laptop, chair, chair, dining table, chair, person, person, tv, chair, chair, chair",0.885,lifestyle
+16451,Thequorachannel,16451.jpg,,0.0,other
+16452,Thequorachannel,16452.jpg,"person, person, tv, tie",0.864,lifestyle
+16455,Thequorachannel,16455.jpg,clock,0.327,other
+16457,Thequorachannel,16457.jpg,,0.0,other
+16458,Thequorachannel,16458.jpg,,0.0,other
+16459,Thequorachannel,16459.jpg,,0.0,other
+16460,Thequorachannel,16460.jpg,,0.0,other
+16462,Thequorachannel,16462.jpg,"kite, frisbee",0.517,other
+16463,Thequorachannel,16463.jpg,,0.0,other
+16466,Thequorachannel,16466.jpg,,0.0,other
+16467,Thequorachannel,16467.jpg,,0.0,other
+16468,Thequorachannel,16468.jpg,,0.0,other
+16469,Thequorachannel,16469.jpg,"person, person, book",0.941,promotional
+16470,Thequorachannel,16470.jpg,,0.0,other
+16471,Thequorachannel,16471.jpg,,0.0,other
+16472,Thequorachannel,16472.jpg,,0.0,other
+16473,Thequorachannel,16473.jpg,"person, person, tv, tie",0.864,lifestyle
+16476,Thequorachannel,16476.jpg,clock,0.538,other
+16477,Thequorachannel,16477.jpg,,0.0,other
+16478,Thequorachannel,16478.jpg,traffic light,0.341,other
+16479,Thequorachannel,16479.jpg,,0.0,other
+16480,Thequorachannel,16480.jpg,,0.0,other
+16481,Thequorachannel,16481.jpg,,0.0,other
+16482,Thequorachannel,16482.jpg,clock,0.543,other
+16483,Thequorachannel,16483.jpg,"clock, kite",0.638,other
+16484,Thequorachannel,16484.jpg,,0.0,other
+16485,Thequorachannel,16485.jpg,traffic light,0.341,other
+16486,Thequorachannel,16486.jpg,,0.0,other
+16487,Thequorachannel,16487.jpg,,0.0,other
+16488,Thequorachannel,16488.jpg,,0.0,other
+16489,Thequorachannel,16489.jpg,"book, book, book",0.656,product_display
+16490,Thequorachannel,16490.jpg,,0.0,other
+16491,Thequorachannel,16491.jpg,kite,0.318,other
+16492,Thequorachannel,16492.jpg,,0.0,other
+16494,Thequorachannel,16494.jpg,,0.0,other
+16495,Thequorachannel,16495.jpg,,0.0,other
+16497,Thequorachannel,16497.jpg,,0.0,other
+16499,Thequorachannel,16499.jpg,clock,0.327,other
+16501,Thequorachannel,16501.jpg,,0.0,other
+16502,Thequorachannel,16502.jpg,"chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair",0.732,other
+16503,Thequorachannel,16503.jpg,"refrigerator, refrigerator",0.572,other
+16504,Thequorachannel,16504.jpg,"tv, cell phone",0.472,product_display
+16505,Thequorachannel,16505.jpg,,0.0,other
+16506,Thequorachannel,16506.jpg,,0.0,other
+16507,Thequorachannel,16507.jpg,"chair, chair, chair, chair, chair, chair, chair, chair",0.807,other
+16508,Thequorachannel,16508.jpg,,0.0,other
+16511,Thequorachannel,16511.jpg,"tv, person, chair, tv",0.825,lifestyle
+16513,Thequorachannel,16513.jpg,,0.0,other
+16514,Thequorachannel,16514.jpg,clock,0.298,other
+16515,Thequorachannel,16515.jpg,,0.0,other
+16516,Thequorachannel,16516.jpg,"potted plant, chair, potted plant, book, chair, potted plant",0.81,product_display
+16517,Thequorachannel,16517.jpg,,0.0,other
+16519,Thequorachannel,16519.jpg,,0.0,other
+16520,Thequorachannel,16520.jpg,,0.0,other
+16521,Thequorachannel,16521.jpg,"bed, person, person",0.555,lifestyle
+16522,Thequorachannel,16522.jpg,person,0.904,lifestyle
+16523,Thequorachannel,16523.jpg,,0.0,other
+16524,Thequorachannel,16524.jpg,,0.0,other
+16525,Thequorachannel,16525.jpg,,0.0,other
+16527,Thequorachannel,16527.jpg,,0.0,other
+16528,Thequorachannel,16528.jpg,"chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair",0.732,other
+16529,Thequorachannel,16529.jpg,"refrigerator, refrigerator",0.572,other
+16530,Thequorachannel,16530.jpg,"tv, cell phone",0.472,product_display
+16531,Thequorachannel,16531.jpg,,0.0,other
+16532,Thequorachannel,16532.jpg,,0.0,other
+16533,Thequorachannel,16533.jpg,"chair, chair, chair, chair, chair, chair, chair, chair",0.807,other
+16535,Thequorachannel,16535.jpg,,0.0,other
+16538,Thequorachannel,16538.jpg,,0.0,other
+16542,Thequorachannel,16542.jpg,,0.0,other
+16544,Thequorachannel,16544.jpg,,0.0,other
+16547,Thequorachannel,16547.jpg,,0.0,other
+16548,Thequorachannel,16548.jpg,"person, person, tv, tie",0.864,lifestyle
+16550,Thequorachannel,16550.jpg,,0.0,other
+16551,Thequorachannel,16551.jpg,"chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair",0.732,other
+16552,Thequorachannel,16552.jpg,"refrigerator, refrigerator",0.572,other
+16553,Thequorachannel,16553.jpg,"tv, cell phone",0.472,product_display
+16554,Thequorachannel,16554.jpg,,0.0,other
+16555,Thequorachannel,16555.jpg,,0.0,other
+16556,Thequorachannel,16556.jpg,"chair, chair, chair, chair, chair, chair, chair, chair",0.807,other
+16557,Thequorachannel,16557.jpg,,0.0,other
+16560,Thequorachannel,16560.jpg,,0.0,other
+16561,Thequorachannel,16561.jpg,,0.0,other
+16567,Thequorachannel,16567.jpg,,0.0,other
+16568,Thequorachannel,16568.jpg,,0.0,other
+16569,Thequorachannel,16569.jpg,,0.0,other
+16571,Thequorachannel,16571.jpg,,0.0,other
+16574,Thequorachannel,16574.jpg,,0.0,other
+16576,Thequorachannel,16576.jpg,book,0.289,product_display
+16577,Thequorachannel,16577.jpg,,0.0,other
+16578,Thequorachannel,16578.jpg,,0.0,other
+16579,Thequorachannel,16579.jpg,"chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair, chair",0.732,other
+16580,Thequorachannel,16580.jpg,"refrigerator, refrigerator",0.572,other
+16581,Thequorachannel,16581.jpg,"tv, cell phone",0.472,product_display
+16582,Thequorachannel,16582.jpg,,0.0,other
+16583,Thequorachannel,16583.jpg,,0.0,other
+16584,Thequorachannel,16584.jpg,"chair, chair, chair, chair, chair, chair, chair, chair",0.807,other
+16585,Thequorachannel,16585.jpg,,0.0,other
+16587,Thequorachannel,16587.jpg,,0.0,other
+16588,Thequorachannel,16588.jpg,clock,0.905,other
+16589,Thequorachannel,16589.jpg,"person, person",0.868,lifestyle
+16591,Thequorachannel,16591.jpg,,0.0,other
+16594,Thequorachannel,16594.jpg,"person, person, laptop, potted plant, laptop, tv, person, person, person, chair, person, chair, laptop, chair, chair, chair, laptop, dining table, chair, chair, chair",0.84,lifestyle
+16595,Thequorachannel,16595.jpg,"person, chair, chair, person, potted plant, person, person, laptop, chair, laptop, chair, chair, dining table, chair, person, person, tv, chair, chair, chair",0.885,lifestyle
+16596,Thequorachannel,16596.jpg,,0.0,other
+16597,Thequorachannel,16597.jpg,clock,0.449,other
+16598,Thequorachannel,16598.jpg,,0.0,other
+16599,Thequorachannel,16599.jpg,"person, parking meter, cell phone",0.906,promotional
+16600,Thequorachannel,16600.jpg,"cell phone, person, cell phone",0.888,promotional
+16601,Thequorachannel,16601.jpg,"cell phone, person, cell phone",0.927,promotional
+16602,Thequorachannel,16602.jpg,"person, cup, potted plant, cell phone, person, person, person, vase",0.885,promotional
+16603,Thequorachannel,16603.jpg,"person, person, cell phone",0.839,promotional
+16607,Thequorachannel,16607.jpg,,0.0,other
+16611,Thequorachannel,16611.jpg,,0.0,other
+196105,TikvahPharma,196105.jpg,,0.0,other
+196108,TikvahPharma,196108.jpg,,0.0,other
+196109,TikvahPharma,196109.jpg,,0.0,other
+196111,TikvahPharma,196111.jpg,,0.0,other
+196131,TikvahPharma,196131.jpg,,0.0,other
+196132,TikvahPharma,196132.jpg,,0.0,other
+196134,TikvahPharma,196134.jpg,bowl,0.364,product_display
+196141,TikvahPharma,196141.jpg,"laptop, laptop, tv, person, tv, person, keyboard",0.952,lifestyle
+196142,TikvahPharma,196142.jpg,laptop,0.709,other
+196157,TikvahPharma,196157.jpg,"bowl, book",0.424,product_display
+196164,TikvahPharma,196164.jpg,book,0.278,product_display
+196165,TikvahPharma,196165.jpg,,0.0,other
+196166,TikvahPharma,196166.jpg,,0.0,other
+196167,TikvahPharma,196167.jpg,book,0.347,product_display
+196169,TikvahPharma,196169.jpg,book,0.251,product_display
+196170,TikvahPharma,196170.jpg,,0.0,other
+196172,TikvahPharma,196172.jpg,,0.0,other
+196177,TikvahPharma,196177.jpg,"laptop, laptop, tv, person, tv, person, keyboard",0.952,lifestyle
+196178,TikvahPharma,196178.jpg,laptop,0.709,other
+196181,TikvahPharma,196181.jpg,,0.0,other
+196185,TikvahPharma,196185.jpg,,0.0,other
+196189,TikvahPharma,196189.jpg,,0.0,other
+196198,TikvahPharma,196198.jpg,,0.0,other
+196199,TikvahPharma,196199.jpg,,0.0,other
+196207,TikvahPharma,196207.jpg,"laptop, laptop, tv, person, tv, person, keyboard",0.952,lifestyle
+196211,TikvahPharma,196211.jpg,"bowl, book",0.424,product_display
+196224,TikvahPharma,196224.jpg,,0.0,other
+196225,TikvahPharma,196225.jpg,,0.0,other
+196246,TikvahPharma,196246.jpg,"laptop, laptop, tv, person, tv, person, keyboard",0.952,lifestyle
+196247,TikvahPharma,196247.jpg,laptop,0.709,other
+196268,TikvahPharma,196268.jpg,bowl,0.364,product_display
+196269,TikvahPharma,196269.jpg,,0.0,other
+196270,TikvahPharma,196270.jpg,,0.0,other
+196271,TikvahPharma,196271.jpg,refrigerator,0.336,other
+196286,TikvahPharma,196286.jpg,"book, toothbrush",0.334,product_display
+196288,TikvahPharma,196288.jpg,bowl,0.364,product_display
+196295,TikvahPharma,196295.jpg,"person, sports ball",0.392,promotional
+196310,TikvahPharma,196310.jpg,,0.0,other
+196311,TikvahPharma,196311.jpg,,0.0,other
+196312,TikvahPharma,196312.jpg,refrigerator,0.336,other
+196313,TikvahPharma,196313.jpg,laptop,0.709,other
+196327,TikvahPharma,196327.jpg,,0.0,other
+196337,TikvahPharma,196337.jpg,,0.0,other
+196338,TikvahPharma,196338.jpg,,0.0,other
+196339,TikvahPharma,196339.jpg,refrigerator,0.336,other
+196340,TikvahPharma,196340.jpg,laptop,0.709,other
+196343,TikvahPharma,196343.jpg,,0.0,other
+196344,TikvahPharma,196344.jpg,"tv, microwave, clock",0.695,other
