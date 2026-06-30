@@ -210,8 +210,6 @@ def search_messages(
             detail="Internal server error."
         )
 
-
-
 # =========================================================
 # Endpoint 4: Visual Content Statistics
 # =========================================================
