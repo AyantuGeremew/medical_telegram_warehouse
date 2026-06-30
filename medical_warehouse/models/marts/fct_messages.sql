@@ -1,6 +1,5 @@
 SELECT
     message_id,
-
     c.channel_key,
     DATE(m.message_date) AS date_key,
 

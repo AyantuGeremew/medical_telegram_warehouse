@@ -50,6 +50,7 @@ if not image_files:
     logger.warning("No images found. Exiting pipeline safely.")
     raise SystemExit("No images found in directory")
 
+
 # ==========================================================
 # YOLO Detection Pipeline
 # ==========================================================
